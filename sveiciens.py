@@ -1,1 +1,1 @@
-print("Bumbiņa")
+print("Nomaina sveiciena tekstu")
